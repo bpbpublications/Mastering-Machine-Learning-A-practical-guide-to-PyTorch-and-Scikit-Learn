@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../mmlbook"
+		},
+		{
+			"name": "Mastering-Machine-Learning-A-practical-guide-to-PyTorch-and-Scikit-Learn",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

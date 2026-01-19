@@ -1,3 +1,4 @@
 # Large data files
 Chapter11/data/cifar-10-python.tar.gz
 *.tar.gz
+Chapter13/img_align_celeba/
